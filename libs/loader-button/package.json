@@ -1,6 +1,6 @@
 {
   "name": "@fazin/loader-button",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "main": "./index.js",
   "types": "./index.d.ts",
   "exports": {
@@ -10,11 +10,11 @@
     }
   },
   "keywords": [
-    "react loader button",
-    "loader button",
-    "loading button",
-    "react loading button",
-    "spinner button",
-    "react spinner button"
+    "react-loader-button",
+    "loader-button",
+    "loading-button",
+    "react-loading-button",
+    "spinner-button",
+    "react-spinner-button"
   ]
 }
